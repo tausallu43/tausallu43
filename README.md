@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tousif_Ahamed_Mohammed
 - 👀 I’m interested in Machine_learning and computer_vision tasks
-- 🌱 I’m currently studying Masters in Robotics systems engineering
+- 🌱 I’m currently studying Masters in Robotics systems engineering at RWTH Aachen Germany.
 - 💞️ I’m looking to collaborate on Machine_learning or computer_vision projects
 - 📫 How to reach me tausallu.md007@gamil.com or tousif.ahamed.mohammed@rwth-aachen.de
 
